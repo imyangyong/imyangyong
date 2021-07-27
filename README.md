@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    <span>contact me via wechat: </span><strong>eWFuZ3lvbmctMTAxNg==</strong><span>(base64 hah)</span>
+    <span>contact me via wechat(base64 encoded): </span><strong>eWFuZ3lvbmctMTAxNg==</strong>
   </samp>
 </p>

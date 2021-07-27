@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <samp>
+    <span>contact me via wechat: </span><strong>eWFuZ3lvbmctMTAxNg==</strong>
+  </samp>
+</p>

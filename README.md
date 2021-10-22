@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=imyangyong&column=8&theme=gruvbox&no-frame=true"/>
+</p>
+
+<p align="center">
   <samp>
     <span>contact me via wechat(base64 encoded): </span><strong>eWFuZ3lvbmctMTAxNg==</strong>
   </samp>

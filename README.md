@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=imyangyong&column=8&theme=gruvbox&no-frame=true"/>
-</div>
+<p align="center">
+  <samp>
+    <span>contact me via wechat(base64 encoded): </span><strong>eWFuZ3lvbmctMTAxNg==</strong>
+  </samp>
+</p>
 
 ---
 
@@ -25,9 +27,3 @@ Here are some ideas to get you started:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=imyangyong&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyangyong&layout=compact" />
 </div>
-
-<p align="center">
-  <samp>
-    <span>contact me via wechat(base64 encoded): </span><strong>eWFuZ3lvbmctMTAxNg==</strong>
-  </samp>
-</p>

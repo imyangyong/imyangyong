@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 🔭 I’m currently working on **Front-end architecture**
-- 🔭 I’m currently working at **BeiJing**
+- 💻 I’m currently working at **BeiJing**
 - 💬 Communicate with me about front-end knowledge
 - 📫 How to reach me: <a href="https://twitter.com/imyangyong"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="AngusYang Twitter profile" width="28"/></a> or <a href="https://img.imyangyong.com/wechat.jpeg"><img src="https://cdn.worldvectorlogo.com/logos/wechat-3.svg" title="Wechat" alt="AngusYang Wechat QR Code" width="65"/></a>
 

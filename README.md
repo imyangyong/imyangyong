@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Latest Github activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/imyangyong/imyangyong/pull/1) in [imyangyong/imyangyong](https://github.com/imyangyong/imyangyong)
-2. ❗️ Closed issue [#16](https://github.com/zhangjichengcc/js-moment/issues/16) in [zhangjichengcc/js-moment](https://github.com/zhangjichengcc/js-moment)
-3. 💪 Opened PR [#24](https://github.com/SukkaW/zsh-proxy/pull/24) in [SukkaW/zsh-proxy](https://github.com/SukkaW/zsh-proxy)
+1. 💪 Opened PR [#27](https://github.com/bestony/ChatGPT-Feishu/pull/27) in [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
+2. ❌ Closed PR [#1](https://github.com/imyangyong/imyangyong/pull/1) in [imyangyong/imyangyong](https://github.com/imyangyong/imyangyong)
+3. ❗️ Closed issue [#16](https://github.com/zhangjichengcc/js-moment/issues/16) in [zhangjichengcc/js-moment](https://github.com/zhangjichengcc/js-moment)
 <!--END_SECTION:activity-->
 

@@ -16,10 +16,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyangyong&layout=compact" />
 </div>
 
-### Latest Github activities
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/bestony/ChatGPT-Feishu/pull/27) in [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
-2. ❌ Closed PR [#1](https://github.com/imyangyong/imyangyong/pull/1) in [imyangyong/imyangyong](https://github.com/imyangyong/imyangyong)
-3. ❗️ Closed issue [#16](https://github.com/zhangjichengcc/js-moment/issues/16) in [zhangjichengcc/js-moment](https://github.com/zhangjichengcc/js-moment)
-<!--END_SECTION:activity-->
-
